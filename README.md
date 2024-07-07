@@ -2,7 +2,9 @@
 <hr/>
 <div align="center">
   <img src="https://github.com/hanieAfzali/hanieAfzali/blob/main/developer-girl.gif" alt="animated cat" width="600" />
-  <p>
+</div>
+<div>
+    <p>
     I'm Hanie Afzali, a passionate Front-End Developer with a knack for creating dynamic and responsive web applications. Here's a bit about me:
 
 - 🛠 **Tech Stack**:
