@@ -1,4 +1,4 @@
-##  <div align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=&duration=4949&pause=1000&color=FF9828CD&background=7FABFF00&center=true&vCenter=true&random=false&width=435&lines=+Hey+there!👋;+I'm+Hanie+Afzali+;A+front-end+developer" alt="Typing SVG" /></a></div>
+##  <div align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=&duration=4949&pause=1000&color=FF9828CD&background=7FABFF00&center=true&vCenter=true&random=false&width=435&lines=+Hey+there!👋;+I'm+Hanie+Afzali+;A+front-end+developer;+nice+to+meet+you+!" alt="Typing SVG" /></a></div>
 
 <div align="center">
   <img src="https://github.com/hanieAfzali/hanieAfzali/blob/main/developer-girl.gif" alt="animated cat" width="600" />
