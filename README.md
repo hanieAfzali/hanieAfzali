@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-سلام! من حانیه افضلی هستم و یک فرانت اند دولوپرم.
-
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="animated cat" width="200" />
 </div>
@@ -20,20 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div class="animated-frame">
-  <h3>درباره من:</h3>
-  <p>من عاشق توسعه وب هستم و همیشه به دنبال یادگیری تکنولوژی‌های جدید هستم.</p>
-</div>
-
-<style>
-  @import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css');
-
-  .animated-frame {
-    padding: 20px;
-    margin: 20px 0;
-    border: 2px solid #3498db;
-    border-radius: 10px;
-    animation: animate__animated animate__bounceIn;
-  }
-</style>
