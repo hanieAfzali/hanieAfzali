@@ -2,6 +2,26 @@
 <hr/>
 <div align="center">
   <img src="https://github.com/hanieAfzali/hanieAfzali/blob/main/developer-girl.gif" alt="animated cat" width="600" />
+  <p>
+    I'm Hanie Afzali, a passionate Front-End Developer with a knack for creating dynamic and responsive web applications. Here's a bit about me:
+
+- 🛠 **Tech Stack**:
+  - **Markup & Styling**: HTML5, CSS3
+  - **Languages & Frameworks**: JavaScript (ES6+), TypeScript, React, Vue.js
+  - **Styling Libraries**: Material-UI, CoreUI, Tailwind CSS, Bootstrap
+  - **State Management**: Redux
+  - **Version Control**: Git
+
+- 🎨 **Design Philosophy**: I love crafting visually appealing and user-friendly interfaces. My work is focused on bringing seamless and intuitive experiences to life using the latest design principles and best practices.
+
+- 🌱 **Continuous Learning**: The web development landscape is constantly evolving, and I am always eager to learn and experiment with new technologies.
+
+- 🤝 **Collaboration**: I enjoy working in collaborative environments where ideas can be shared freely, and I believe in the power of teamwork to achieve remarkable results. Open-source contributions and community involvement are also important to me.
+
+- 📫 **Get in Touch**: If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me on [GitHub](https://github.com/hanieAfzali) or [LinkedIn](#).
+
+Thanks for stopping by! Let's build something amazing together.
+  </p>
 </div>
 <!--
 **hanieAfzali/hanieAfzali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
