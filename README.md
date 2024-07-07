@@ -20,7 +20,7 @@
 
 - 🤝 **Collaboration**: I enjoy working in collaborative environments where ideas can be shared freely, and I believe in the power of teamwork to achieve remarkable results. Open-source contributions and community involvement are also important to me.
 
-- 📫 **Get in Touch**: If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me on [GitHub](https://github.com/hanieAfzali) or [LinkedIn](www.linkedin.com/in/hanieh-afzali).
+- 📫 **Get in Touch**: If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me on [GitHub](https://github.com/hanieAfzali) or [LinkedIn](https://www.linkedin.com/in/hanieh-afzali).
 
 Thanks for stopping by! Let's build something amazing together.
   </p>
