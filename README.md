@@ -7,7 +7,7 @@
     <p>
     I'm Hanie Afzali, a passionate Front-End Developer with a knack for creating dynamic and responsive web applications. Here's a bit about me:
 
-  - ** 🛠 Tech Stack
+  -  🛠 Tech Stack
   - **Markup & Styling**: HTML5, CSS3
   - **Languages & Frameworks**: JavaScript (ES6+), TypeScript, React, Vue.js
   - **Styling Libraries**: Material-UI, CoreUI, Tailwind CSS, Bootstrap
